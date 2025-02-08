@@ -4,7 +4,7 @@ I'm Kartik Shankar. Technologist and engineering leader. On github to learn, bui
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikshankar-nyc&show_icons=true&count_private=true&hide=stars,prs,issues,contribs)
+
 
 
 <!--
