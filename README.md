@@ -1,5 +1,7 @@
 ### Hi there 👋
-I'm Kartik Shankar. Technologist and engineering leader. On github to learn, build, break, share. Rinse and repeat.
+I'm Kartik Shankar. Technologist and engineering leader. 
+On github to learn, build, break, share. 
+Rinse and repeat.
 
 
 
