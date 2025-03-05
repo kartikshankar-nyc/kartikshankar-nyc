@@ -2,7 +2,7 @@
 I'm Kartik Shankar! <br>
 &#10239;Technologist and engineering leader. <br>
 &#10239; On github to learn, build, break, share. <br>
-&#10239; Happy to connect! <mark>&nbsp&nbsp Details below ... </mark>
+&#10239; Happy to connect! <mark> Details below ... </mark>
 
 
 
