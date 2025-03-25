@@ -53,5 +53,4 @@ I'm a technology leader passionate about building innovative solutions and leadi
 <div align="center">
   <p><i>Thank you for visiting my profile. I'm always open to interesting conversations and collaboration opportunities.</i></p>
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=kartikshankar-nyc&style=flat-square&color=0969DA)
 </div>
