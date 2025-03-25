@@ -1,4 +1,5 @@
-# Kartik Shankar
+# Kartik Shankar 
+> *On GitHub to learn -> build -> break -> fix -> fail -> retry -> succeed -> share.* <i> Rinse and Repeat </i>
 <br> 
 <br>
 
@@ -10,10 +11,12 @@
 
 I'm a technology leader passionate about building innovative solutions and leading happy, and high-performing engineering teams that delight customers.
 
-- 🔭 Currently leading engineering initiatives in FinTech as Global Head of Engineering and SVP at Jefferies. Previously at Morgan Stanley, Microsoft, CA Broadcom. 
-- 🌱 Continuously exploring emerging technologies and best practices
+- Currently leading engineering initiatives in FinTech as Global Head of Engineering and SVP at Jefferies. Previously at Morgan Stanley, Microsoft, CA Broadcom. 
+- Continuously exploring emerging technologies and innovation.
+- Committed to lifelong learning.
+- Curious about everything!
 
-> *On GitHub to learn, build, break, and share.*
+
 
 
 
