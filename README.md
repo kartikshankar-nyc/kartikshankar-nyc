@@ -25,7 +25,8 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://soundcloud.com/crypticbrahmin">
-  
+      <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
+  </a>
 
 ## About Me
 
@@ -43,8 +44,7 @@ I'm a technology leader passionate about building innovative solutions and leadi
 </div>
 
 
-    <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
-  </a>
+
 </div>
 
 ---
