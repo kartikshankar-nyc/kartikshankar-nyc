@@ -5,7 +5,6 @@
 
 > **_On GitHub to learn -> build -> break -> fix -> fail -> retry -> succeed -> share._** <span style="font-family: 'Courier New', Courier, monospace;">Rinse and Repeat</span>
 <br>
-
 ## About Me
 
 I'm a technology leader passionate about building innovative solutions and leading happy, and high-performing engineering teams that delight customers.
@@ -14,12 +13,6 @@ I'm a technology leader passionate about building innovative solutions and leadi
 - Continuously exploring emerging technologies and innovation.
 - Committed to lifelong learning.
 - Curious about everything!
-
-## GitHub Activity
-<br>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikshankar-nyc&layout=compact&theme=default&hide_border=true" />
-</div>
 
 ## Connect With Me
 
@@ -39,6 +32,18 @@ I'm a technology leader passionate about building innovative solutions and leadi
   <a href="https://soundcloud.com/crypticbrahmin">
       <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
   </a>
+<br>
+<div align="center">
+  <p><i>Thank you for visiting my profile. I'm always open to interesting conversations and collaboration opportunities.</i></p>
+</div>
+
+## GitHub Activity
+<br>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikshankar-nyc&layout=compact&theme=default&hide_border=true" />
+</div>
+
+
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; padding: 10px; min-width: 300px;">
@@ -46,13 +51,5 @@ I'm a technology leader passionate about building innovative solutions and leadi
   </div>
 </div>
 
-
-
-
 </div>
 
----
-
-<div align="center">
-  <p><i>Thank you for visiting my profile. I'm always open to interesting conversations and collaboration opportunities.</i></p>
-</div>
