@@ -1,14 +1,10 @@
+## Kartik Shankar <br>
   <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Technologist;Lifelong+Learner" />
 </div>
 
 > **_On GitHub to learn -> build -> break -> fix -> fail -> retry -> succeed -> share._** <span style="font-family: 'Courier New', Courier, monospace;">Rinse and Repeat</span>
-
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; padding: 10px; min-width: 300px;">
-    <h1>Kartik Shankar <img src="https://github.com/user-attachments/assets/8219e716-0285-4e16-9f8e-567cae5f3c62" alt="ascii-art"></h1>
-  </div>
-</div>
+<br>
 
 ## Connect With Me
 
@@ -28,6 +24,13 @@
   <a href="https://soundcloud.com/crypticbrahmin">
       <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
   </a>
+
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; padding: 10px; min-width: 300px;">
+<img src="https://github.com/user-attachments/assets/8219e716-0285-4e16-9f8e-567cae5f3c62" alt="ascii-art">
+  </div>
+</div>
+
 
 ## About Me
 
