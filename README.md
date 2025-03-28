@@ -7,10 +7,24 @@
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; padding: 10px; min-width: 300px;">
     <h1>Kartik Shankar <img src="https://github.com/user-attachments/assets/8219e716-0285-4e16-9f8e-567cae5f3c62" alt="ascii-art"></h1>
-
   </div>
 </div>
+## Connect With Me
 
+<div>
+   <a href="https://www.linkedin.com/in/kartikshankar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/kartikNYC">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/kartikshankarnyc/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/shankar.kartik">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://soundcloud.com/crypticbrahmin">
   
 
 ## About Me
@@ -28,22 +42,7 @@ I'm a technology leader passionate about building innovative solutions and leadi
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikshankar-nyc&layout=compact&theme=default&hide_border=true" />
 </div>
 
-## Connect With Me
 
-<div>
-   <a href="https://www.linkedin.com/in/kartikshankar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/kartikNYC">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/kartikshankarnyc/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.facebook.com/shankar.kartik">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://soundcloud.com/crypticbrahmin">
     <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
   </a>
 </div>
