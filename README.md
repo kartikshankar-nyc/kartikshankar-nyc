@@ -17,7 +17,10 @@ I'm a technology leader passionate about building innovative solutions and leadi
 ## Connect With Me
 
 <div>
-   <a href="https://www.linkedin.com/in/kartikshankar/">
+  <a href="https://github.com/kartikshankar-nyc">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/kartikshankar/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/kartikNYC">
@@ -30,8 +33,10 @@ I'm a technology leader passionate about building innovative solutions and leadi
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://soundcloud.com/crypticbrahmin">
-      <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
+    <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
   </a>
+</div>
+
 <br>
 <div align="center">
   <p><i>Thank you for visiting my profile. I'm always open to interesting conversations and collaboration opportunities.</i></p>
