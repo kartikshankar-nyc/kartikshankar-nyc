@@ -1,9 +1,8 @@
   <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Technologist;Lifelong+Learner;More+Lines+Here" />
 </div>
-    <p>
-      On GitHub to learn -> build -> break -> fix -> fail -> retry -> succeed -> share. <i>Rinse and Repeat</i>
-    </p>
+> *On GitHub to learn -> build -> break -> fix -> fail -> retry -> succeed -> share.* <i> Rinse and Repeat </i>
+
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; padding: 10px; min-width: 300px;">
     <h1>Kartik Shankar <img src="https://github.com/user-attachments/assets/8219e716-0285-4e16-9f8e-567cae5f3c62" alt="ascii-art"></h1>
