@@ -5,6 +5,7 @@
 
 > **_On GitHub to learn -> build -> break -> fix -> fail -> retry -> succeed -> share._** <span style="font-family: 'Courier New', Courier, monospace;">Rinse and Repeat</span>
 <br>
+
 ## About Me
 
 I'm a technology leader passionate about building innovative solutions and leading happy, and high-performing engineering teams that delight customers.
@@ -38,7 +39,7 @@ I'm a technology leader passionate about building innovative solutions and leadi
 </div>
 
 <br>
-<div align="center">
+<div align="left">
   <p><i>Thank you for visiting my profile. I'm always open to interesting conversations and collaboration opportunities.</i></p>
 </div>
 
