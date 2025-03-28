@@ -1,4 +1,5 @@
-# Kartik Shankar 
+# Kartik Shankar ![ascii-art](https://github.com/user-attachments/assets/8219e716-0285-4e16-9f8e-567cae5f3c62)
+
 > *On GitHub to learn -> build -> break -> fix -> fail -> retry -> succeed -> share.* <i> Rinse and Repeat </i>
 <br> 
 <br>
