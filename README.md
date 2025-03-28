@@ -6,6 +6,21 @@
 > **_On GitHub to learn -> build -> break -> fix -> fail -> retry -> succeed -> share._** <span style="font-family: 'Courier New', Courier, monospace;">Rinse and Repeat</span>
 <br>
 
+## About Me
+
+I'm a technology leader passionate about building innovative solutions and leading happy, and high-performing engineering teams that delight customers.
+
+- Currently leading engineering initiatives in FinTech as Global Head of Engineering and SVP at Jefferies. Previously at Morgan Stanley, Microsoft, CA Broadcom. 
+- Continuously exploring emerging technologies and innovation.
+- Committed to lifelong learning.
+- Curious about everything!
+
+## GitHub Activity
+<br>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikshankar-nyc&layout=compact&theme=default&hide_border=true" />
+</div>
+
 ## Connect With Me
 
 <div>
@@ -31,21 +46,6 @@
   </div>
 </div>
 
-
-## About Me
-
-I'm a technology leader passionate about building innovative solutions and leading happy, and high-performing engineering teams that delight customers.
-
-- Currently leading engineering initiatives in FinTech as Global Head of Engineering and SVP at Jefferies. Previously at Morgan Stanley, Microsoft, CA Broadcom. 
-- Continuously exploring emerging technologies and innovation.
-- Committed to lifelong learning.
-- Curious about everything!
-
-## GitHub Activity
-<br>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikshankar-nyc&layout=compact&theme=default&hide_border=true" />
-</div>
 
 
 
