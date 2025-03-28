@@ -1,7 +1,36 @@
-# Kartik Shankar ![ascii-art](https://github.com/user-attachments/assets/8219e716-0285-4e16-9f8e-567cae5f3c62)
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; padding: 10px; min-width: 300px;">
+    <pre>
+.==......===++===..          ..==========+++++++++++++++++.++++++==+++++###+
+.==.....===++++==..         ...=========++++++++++++++++++++++++=++++++++##+
+===.....==++++++=...       ...====+++++++++++++++++++++++++++==+++++++++++#+
+#===...====+++++=.....   ....=====+++++++++++==++++@####+#+#+++==+++++++++++#
+#==========+++++===.........=====++++++++++++++=+++##@@@######+++==+++++=+++=
++==========++++++======..========+++++++++=++##+###@@@@@@@#####+++==+++====++
+.===....===++++++================+++++++++++##@#@@@@@@@@@@@@@@###++++++=====+
+.==.....===++++++===============++++++++++++#@@@@@@@@@@@@@@@@@@###+=+++=====+
++=.......====++++====+++=======+++++++++=#####@@@@@@@@@@@@@@@@@@###++++======
+#........=====+=+===++++++==+++++++++++++##@@@@@@@@@@@@@@@@@@@@@@@@#++++=====
++........=======++==++++++++++++++++++++####@@@@@@@@@@@@@@@@@@@@@@#@#++++====
+.........=.====+++++++++++++++++++++++++##@@@@@@@@@@@@#+++#######@@@#+++++=++
+........=..====++++++++++++++++++++++++###@@@@@@@@@@@#+====+++++=+##+#+++++++
+=.....====.====+++++++++++++++++++++++###@@@@#######++==..=========#+#+++++++
+#....========++#+++++++++++++++++++++##@#@@@++++++===..............=#====++++
+#===========+++#+++++++++++++++++++++#@@@@@========.................=+====+++
++===========++##+++++++++++++++++++++@@@@@+===.......................=+====++
+=++++++====++###+++++++++++++++++++++@#@@+===........................=+=++=++
+=+++++++=+++####++++++++++++++++++++####@+===.........................==+=+=+
+    </pre>
+  </div>
+  <div style="flex: 1; padding: 10px; min-width: 300px;">
+    <h1>Kartik Shankar <img src="https://github.com/user-attachments/assets/8219e716-0285-4e16-9f8e-567cae5f3c62" alt="ascii-art"></h1>
+    <p>
+      On GitHub to learn -> build -> break -> fix -> fail -> retry -> succeed -> share. <i>Rinse and Repeat</i>
+    </p>
+  </div>
+</div>
 
-> *On GitHub to learn -> build -> break -> fix -> fail -> retry -> succeed -> share.* <i> Rinse and Repeat </i>
-<br> 
+<br>
 <br>
 
 <div align="center">
@@ -17,17 +46,11 @@ I'm a technology leader passionate about building innovative solutions and leadi
 - Committed to lifelong learning.
 - Curious about everything!
 
-
-
-
-
 ## GitHub Activity
 <br>
 <div align="center">
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikshankar-nyc&layout=compact&theme=default&hide_border=true" />
 </div>
-
 
 ## Connect With Me
 
@@ -53,5 +76,4 @@ I'm a technology leader passionate about building innovative solutions and leadi
 
 <div align="center">
   <p><i>Thank you for visiting my profile. I'm always open to interesting conversations and collaboration opportunities.</i></p>
-  
 </div>
