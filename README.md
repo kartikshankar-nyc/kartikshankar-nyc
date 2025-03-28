@@ -8,6 +8,7 @@
     <h1>Kartik Shankar <img src="https://github.com/user-attachments/assets/8219e716-0285-4e16-9f8e-567cae5f3c62" alt="ascii-art"></h1>
   </div>
 </div>
+
 ## Connect With Me
 
 <div>
