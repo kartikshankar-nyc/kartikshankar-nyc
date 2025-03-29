@@ -1,6 +1,6 @@
 ## Kartik Shankar <br>
   <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Technologist;Lifelong+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Technologist;Engineering Leader;Tinkerer;Lifelong+Learner" />
 </div>
 
 > **_On GitHub to learn -> build -> break -> fix -> fail -> retry -> succeed -> share._** <span style="font-family: 'Courier New', Courier, monospace;">Rinse and Repeat</span>
