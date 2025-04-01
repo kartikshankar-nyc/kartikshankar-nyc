@@ -11,7 +11,7 @@
 I'm a technology leader passionate about building innovative solutions and leading happy, and high-performing engineering teams that delight customers.
 
 - Currently leading engineering initiatives in FinTech as Global Head of Engineering and SVP at Jefferies. Previously at Morgan Stanley, Microsoft, CA Broadcom. 
-- Continuously exploring emerging technologies and innovation.
+- Continuously exploring emerging technologies and innovation. (got to see that GitHub contribution graph ⬇️ fill up with more green 🟩 🟩 🟩 😀 )
 - Committed to lifelong learning.
 - Curious about everything!
 
