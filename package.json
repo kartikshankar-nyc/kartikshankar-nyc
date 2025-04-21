@@ -1,0 +1,9 @@
+{
+  "name": "svg-generator",
+  "version": "1.0.0",
+  "main": "generateSVG.js",
+  "scripts": {
+    "start": "node generateSVG.js"
+  },
+  "dependencies": {}
+}
