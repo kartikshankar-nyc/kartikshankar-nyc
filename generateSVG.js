@@ -2,7 +2,7 @@ const fs = require('fs');
 
 // Adjusted SVG content with increased dimensions and improved styling for scrolling
 const svgContent = `
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200">
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="500">
     <text x="50%" y="50%" fill="#0969DA" font-size="32" font-family="Montserrat" font-weight="600" alignment-baseline="middle" text-anchor="middle">
         Technologist, Engineering Leader, Tinkerer, Lifelong Learner
     </text>
