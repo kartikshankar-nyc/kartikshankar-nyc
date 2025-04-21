@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: '0 * * * *' # Runs every hour (adjust as needed)
+    - cron: '0 * * * *'
 
 jobs:
   generate-svg:
@@ -24,6 +24,9 @@ jobs:
         run: |
           npm install
           node generateSVG.js
+
+      - name: Debug Generated File
+        run: cat dynamic-typing.svg
 
       - name: Commit and Push Changes
         run: |
