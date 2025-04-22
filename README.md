@@ -2,8 +2,9 @@
  <div align="center">
   <img src="./dynamic-typing.svg" alt="Dynamic Typing SVG">
 </div>
+<br>
 
-> <br> **_On GitHub to learn -> build -> break -> fix -> fail -> retry -> succeed -> share._** <span style="font-family: 'Courier New', Courier, monospace;">Rinse and Repeat</span>
+> **_On GitHub to learn -> build -> break -> fix -> fail -> retry -> succeed -> share._** <span style="font-family: 'Courier New', Courier, monospace;">Rinse and Repeat</span>
 <br>
 
 ## About Me
