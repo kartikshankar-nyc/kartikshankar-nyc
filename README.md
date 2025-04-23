@@ -52,11 +52,7 @@ I'm a technology leader passionate about building innovative solutions and leadi
 
 
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; padding: 10px; min-width: 300px;">
-<img src="https://github.com/user-attachments/assets/8219e716-0285-4e16-9f8e-567cae5f3c62" alt="ascii-art">
-  </div>
-</div>
+
 
 </div>
 
