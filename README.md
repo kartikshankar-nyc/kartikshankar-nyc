@@ -11,7 +11,11 @@
 
 I'm a technology leader passionate about building innovative solutions and leading happy, and high-performing engineering teams that delight customers.
 
-- Currently leading engineering initiatives in FinTech as Global Head of Engineering and SVP at Jefferies. Previously at Morgan Stanley, Microsoft, CA Broadcom. 
+- Currently running tech at 3 companies:
+  1. Founder and CTO at [Anjaneya Innovations](https://anjaneyainnovations.com/) (Stealth Advisory/Consulting firm)
+  2. CTO and co-founder at [AXCL](https://axcl.com/) - Urban Transportation
+  3. CTO and Strategic Advisor at [Sentry](https://sentryms.com/) Transportation and Logistics
+- Previously at Jefferies, Morgan Stanley, Microsoft, CA Broadcom.
 - Continuously exploring emerging technologies and innovation. (so the GitHub contribution graph turns more green 🟩 🟩 😀 )
 - Committed to lifelong learning.
 - Curious about everything!
@@ -49,10 +53,3 @@ I'm a technology leader passionate about building innovative solutions and leadi
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikshankar-nyc&layout=compact&theme=default&hide_border=true" />
 </div>
-
-
-
-
-
-</div>
-
