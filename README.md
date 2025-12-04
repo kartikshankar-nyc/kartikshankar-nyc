@@ -12,8 +12,8 @@
 I'm a technology leader passionate about building innovative solutions and leading happy, and high-performing engineering teams that delight customers.
 
 - Currently running tech at 3 companies:
-  1. Founder and CTO at [Anjaneya Innovations](https://anjaneyainnovations.com/) (Stealth Advisory/Consulting firm)
-  2. CTO and co-founder at [AXCL](https://axcl.com/) - Urban Transportation
+  1. Founder and CEO at [Anjaneya Innovations](https://anjaneyainnovations.com/) (Stealth Advisory/Consulting firm)
+  2. CTO and Co-Founder at [AXCL](https://axcl.com/) - Urban Transportation
   3. CTO and Strategic Advisor at [Sentry](https://sentryms.com/) Transportation and Logistics
 - Previously at Jefferies, Morgan Stanley, Microsoft, CA Broadcom.
 - Continuously exploring emerging technologies and innovation. (so the GitHub contribution graph turns more green 🟩 🟩 😀 )
