@@ -48,8 +48,3 @@ I'm a technology leader passionate about building innovative solutions and leadi
   <p><i>Thank you for visiting my profile. I'm always open to interesting conversations and collaboration opportunities.</i></p>
 </div>
 
-## GitHub Activity
-<br>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikshankar-nyc&layout=compact&theme=default&hide_border=true" />
-</div>
